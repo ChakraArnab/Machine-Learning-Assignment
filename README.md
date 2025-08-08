@@ -1,24 +1,13 @@
 # Machine-Learning-Assignment
-# 🧠 Digit Recognition using Artificial Neural Network (ANN)
+# 🧠 Digit Recognition(0-9)
 
-This project uses an Artificial Neural Network (ANN) to recognize handwritten digits from the **MNIST dataset**. It is built and trained using **TensorFlow/Keras** in **Google Colab**.
+Artificial Neural Network (ANN) is used to recognize handwritten digits from the **MNIST dataset**. It is built and trained using **TensorFlow/Keras** in **Google Colab**.
 
 ---
 
 ## 📌 Problem Statement
 
-Recognize handwritten digits (0–9) using a machine learning model.  
-Since image data is complex, we use an ANN that can learn patterns from pixel values to predict the correct digit.
-
----
-
-## 🚀 Why ANN?
-
-We used **ANN** because:
-- It is simple and effective for image classification.
-- It works well on structured datasets like MNIST.
-- It can handle non-linear data through multiple layers and activation functions.
-
+Recognize handwritten digits (0–9) using a machine learning model. 
 ---
 
 ## 📊 Dataset Used
@@ -55,13 +44,11 @@ We used **ANN** because:
 
 ## 🧪 Results
 
-- Accuracy: ~98% on test data
-- Loss decreases consistently with epochs
-- Model generalizes well to unseen digits
+- Accuracy: 98.11% on test data
 
 ---
 
 ## 📁 Files
 
-- `Digit_Recognition.ipynb` – Colab notebook with the entire code
+- `Digit_Recognition.ipynb` – Colab notebook with the entire code and explanation
 - `README.md` – Project description
