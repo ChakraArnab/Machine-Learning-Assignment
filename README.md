@@ -4,6 +4,7 @@ Welcome to my Machine Learning Assignments repository!
 
 ## 📂 Repository Structure
 
+```
 [Machine-Learning-Assignment]
        |
        +---> [README.md]  (Main repo description)
@@ -13,7 +14,7 @@ Welcome to my Machine Learning Assignments repository!
                  +---> [Recognize_a_digit(assignment_1).ipynb]
                  |
                  +---> [README.md] (Assignment 1 description)
-
+```
 ## 🧑‍🎓 Student Information
 
 - **Name:** Arnab Chakraborty  
