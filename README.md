@@ -1,54 +1,34 @@
-# Machine-Learning-Assignment 1
-# 🧠 Digit Recognition(0-9)
+# 🧠 Machine Learning Assignments 🧠
 
-Artificial Neural Network (ANN) is used to recognize handwritten digits from the **MNIST dataset**. It is built and trained using **TensorFlow/Keras** in **Google Colab**.
+Welcome to my Machine Learning Assignments repository!  
 
----
+## 📂 Repository Structure
 
-## 📌 Problem Statement
+[Machine-Learning-Assignment]
+       |
+       +---> [README.md]  (Main repo description)
+       |
+       +---> [Assignment 1 Folder]
+                 |
+                 +---> [Recognize_a_digit(assignment_1).ipynb]
+                 |
+                 +---> [README.md] (Assignment 1 description)
 
-Recognize handwritten digits (0–9) using a machine learning model. 
----
+## 🧑‍🎓 Student Information
 
-## 📊 Dataset Used
-
-- **MNIST Dataset** (Built-in in Keras)
-- Contains:
-  - 60,000 training images
-  - 10,000 test images
-  - Each image is a 28×28 grayscale image (values 0 to 255)
-
----
-
-## 🧠 Model Architecture
-
-| Layer          | Type        | Units | Activation |
-|----------------|-------------|-------|------------|
-| 1              | Flatten     | -     | -          |
-| 2              | Dense       | 256   | ReLU       |
-| 3              | Dense       | 128   | ReLU       |
-| 4              | Dense       | 64    | ReLU       |
-| 5              | Dense       | 10    | Softmax    |
+- **Name:** Arnab Chakraborty  
+- **Roll No.:** 222010007009  
+- **Semester:** 7th  
+- **Department:** Computer Science & Engineering (CSE)  
 
 ---
 
-## ⚙️ Training Details
+## 📌 Assignment List
 
-- **Loss Function:** `sparse_categorical_crossentropy`
-- **Optimizer:** `Adam`
-- **Epochs:** 10
-- **Batch Size:** 32
-- **Validation Split:** 10%
+1. **Assignment 1:** Recognizing a Digit using Machine Learning
 
----
 
-## 🧪 Results
 
-- Accuracy: 98.11% on test data
-
----
-
-## 📁 Files
-
-- `Digit_Recognition.ipynb` – Colab notebook with the entire code and explanation
-- `README.md` – Project description
+📅 *Last Updated:* 09-08-2025 
+                 
+                 
