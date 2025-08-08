@@ -1,4 +1,4 @@
-# Machine-Learning-Assignment
+# Machine-Learning-Assignment 1
 # 🧠 Digit Recognition(0-9)
 
 Artificial Neural Network (ANN) is used to recognize handwritten digits from the **MNIST dataset**. It is built and trained using **TensorFlow/Keras** in **Google Colab**.
