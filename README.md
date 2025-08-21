@@ -33,9 +33,10 @@ Welcome to my Machine Learning Assignments repository!
 ## 📌 Assignment List
 
 1. **Assignment 1:** Recognizing a Digit using Machine Learning
+2. **Assignment 2:** Use Linear Regression to Predict House Price from Size and also Draw Epoch vs Accuracy Graph
 
 
 
-📅 *Last Updated:* 09-08-2025 
+📅 *Last Updated:* 22-08-2025 
                  
                  
