@@ -1,7 +1,7 @@
 # 🏠 House Price Prediction using Linear Regression with Batch Gradient Descent
 
 ## 📌 Project Overview
-This project implements **Linear Regression** from scratch using **Batch Gradient Descent** to predict house prices. The dataset is taken from Kaggle and contains house features with their corresponding prices. The main goal is to understand how gradient descent optimizes the regression line to minimize prediction error.
+This project implements **Linear Regression** from scratch using **Batch Gradient Descent** to predict house prices. The dataset is taken from Kaggle and contains house features with their corresponding prices.
 
 ## 📂 Dataset
 - Dataset used: [Simple House Price Prediction](https://www.kaggle.com/datasets/snehasishdhar/simple-house-price-prediction)  
