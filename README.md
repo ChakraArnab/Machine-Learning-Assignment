@@ -6,14 +6,20 @@ Welcome to my Machine Learning Assignments repository!
 
 ```
 [Machine-Learning-Assignment]
-       |
-       +---> [README.md]  (Main repo description)
-       |
-       +---> [Assignment 1 Folder]
-                 |
-                 +---> [Recognize_a_digit(assignment_1).ipynb]
-                 |
-                 +---> [README.md] (Assignment 1 description)
+    |
+    +---> [README.md]  (Main repository description)
+    |
+    +---> [Assignment 1 Folder]
+    |           |
+    |           +---> [Recognize_a_digit(assignment_1).ipynb]
+    |           |
+    |           +---> [README.md]  (Assignment 1 description)
+    |
+    +---> [Assignment 2 Folder]
+                |
+                +---> [Linear_regression.ipynb]
+                |
+                +---> [README.md]  (Assignment 2 description)
 ```
 ## 🧑‍🎓 Student Information
 
